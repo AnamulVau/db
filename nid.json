@@ -1,0 +1,39 @@
+{
+  "Api Owner": "@ZXROCK007",
+  "code": 200,
+  "success": true,
+  "message": "তথ্য সফলভাবে পাওয়া গেছে!",
+  "data": {
+    "name": "মোঃ বুলবুল ইসলাম",
+    "nameEn": "MD. BULBUL ISLAM",
+    "father": "মোঃ মমিনুর রহমান",
+    "mother": "মোছাঃ বুলিফা বেগম",
+    "nationalId": "5112126817",
+    "pin": "5112126817",
+    "dateOfBirth": "2001-11-12",
+    "age": "24 বছর 4 মাস 29 দিন",
+    "birthDay": "সোমবার",
+    "gender": "পুরুষ",
+    "voterArea": "চিড়াভিজা গোলনা",
+    "birthPlace": "নীলফামারী",
+    "Nationality": "বাংলাদেশী",
+    "religion": "ইসলাম",
+    "photo": "https://g-sheba.top/assets/photos/4211788072.jpg",
+    "presentAddress": {
+      "village": "চিড়াভিজা গোলনা",
+      "postOffice": "চিড়াভিজা গোলনা(সরকার পাড়া)",
+      "upozila": "জলঢাকা",
+      "district": "নীলফামারী",
+      "division": "রংপুর",
+      "addressLine": "গ্রাম/রাস্তা: চিড়াভিজা গোলনা, ডাকঘর: চিড়াভিজা গোলনা(সরকার পাড়া), উপজেলা: জলঢাকা, জেলা: নীলফামারী, বিভাগ: রংপুর"
+    },
+    "permanentAddress": {
+      "village": "জলঢাকা",
+      "postOffice": "জলঢাকা",
+      "upozila": "জলঢাকা",
+      "district": "নীলফামারী",
+      "division": "রংপুর",
+      "addressLine": "গ্রাম/রাস্তা: জলঢাকা, ডাকঘর: জলঢাকা, উপজেলা: জলঢাকা, জেলা: নীলফামারী, বিভাগ: রংপুর"
+    }
+  }
+}
